@@ -25,6 +25,6 @@ class DefaultAppContainer : AppContainer {
     }
 
     override val marsPhotosRepository: MarsPhotosRepository by lazy {
-        DefaultMarsPhotosRepository(retrofitService)
+        NetworkMarsPhotosRepository(retrofitService)
     }
 }
