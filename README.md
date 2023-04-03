@@ -17,10 +17,10 @@ This app demonstrated the use of [Retrofit] to make REST requests to the web ser
 
 Environment
 
-- Kotlin 1.7.10
-- Android Studio Dolphin 2021.3.1
-- Compose 1.3.1
-- Gradle Plugin 7.3.1
+- Kotlin 1.8.0
+- Android Studio Electric Eel 2022.1.1
+- Compose BOM 2023.01.00
+- Gradle Plugin 7.4.2
 
 ---
 
@@ -28,5 +28,5 @@ Environment
 language: kotlin
 repo: marsphotosrecomposed
 status: active
-updated: 2023-01-13
+updated: 2023-04-03
 ```
