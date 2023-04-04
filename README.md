@@ -26,7 +26,7 @@ Environment
 
 ```
 language: kotlin
-repo: marsphotosrecomposed
+repo: marsphotos_composed
 status: active
 updated: 2023-04-03
 ```
